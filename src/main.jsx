@@ -7,7 +7,7 @@ import { AppProvider } from './contexts/AppContext'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <AppProvider>
-      <App quebrando-aplicacao-dnc /\/\/\/\> 
+      <App /> 
     </AppProvider>
   </React.StrictMode>,
 )
